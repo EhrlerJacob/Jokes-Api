@@ -1,0 +1,1 @@
+In this project I am creating an API attached to a MongoDB database using Mongoose as middleware. Express is used to create the API while Nodemon is used to run the API in either Postman, or a web browser.  The API is a simple API having keys of setup and punchline for creating jokes and adding them to the database. This is the full back-end framework for my MERN stack. 
